@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on my first SaaS company!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm always looking to collaborate with other content creators
+- 👯 I'm always looking to collaborate with other Developers
 - 🥅 2022 Goal: Collaborate and contribute with FiveM-servers to introduce my SaaS projects
 - ⚡ Fun fact: I love Jetbrains and play piano
 
