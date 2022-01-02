@@ -17,10 +17,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />][discord]
+[<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" />][phpstorm]
+[<img align="left" alt="DataGrip" width="26px" src="https://cdn.worldvectorlogo.com/logos/datagrip-icon.svg" />][datagrip]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][discord]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][discord]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][discord]
+[<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/349474/php.svg" />][discord]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][discord]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][discord]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][discord]
@@ -31,3 +32,5 @@
 
 [linkedin]: https://www.linkedin.com/in/max--stevens/
 [discord]: https://discordapp.com/users/219918305136345089
+[phpstorm]: https://www.jetbrains.com/phpstorm/
+[datagrip]: https://www.jetbrains.com/datagrip/
