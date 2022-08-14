@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
-[<img align="left" alt="Max Stevens | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
+<!--[<img align="left" alt="Max Stevens | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]-->
 
 <br />
 
@@ -30,7 +30,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/336206/github.svg" />][discord]
 [<img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/349437/linux.svg" />][discord]
 
-[linkedin]: https://www.linkedin.com/in/max--stevens/
+<!--[linkedin]: https://www.linkedin.com/in/max--stevens/-->
 [discord]: https://discordapp.com/users/219918305136345089
 [phpstorm]: https://www.jetbrains.com/phpstorm/
 [datagrip]: https://www.jetbrains.com/datagrip/
