@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on my first SaaS company!
 - 🌱 I’m currently learning React & Vue.js
 - 👯 I'm always looking to collaborate with other Developers
-- 🥅 2022 Goal: Collaborate and contribute with FiveM-servers to introduce my SaaS projects
+- 🥅 2023 Goal: Collaborate and contribute with FiveM-servers to introduce my SaaS projects & At least 1 git commit every day of 2023
 - ⚡ Fun fact: I love Jetbrains and play piano
 
 ### Connect with me:
