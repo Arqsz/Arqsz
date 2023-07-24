@@ -1,6 +1,6 @@
 ### Hi there, I'm Max  - aka [Arqsz][discord] 👋 
 
-## I'm a Developer, Internship Supervisor, and a enthusiastic person!
+## I'm a Developer, Internship Supervisor, and an inquisitive person!
 
 - 🔭 I'm currently working on my first SaaS company!
 - 🌱 I’m currently learning React & Vue.js
