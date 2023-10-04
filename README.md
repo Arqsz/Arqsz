@@ -2,8 +2,6 @@
 
 ## I'm a Developer, Internship Supervisor, and an inquisitive person!
 
-- 🔭 I'm currently working on my first SaaS company!
-- 🌱 I’m currently learning React & Vue.js
 - 👯 I'm always looking to collaborate with other Developers
 - ⚡ Fun fact: I love Jetbrains and play piano
 
